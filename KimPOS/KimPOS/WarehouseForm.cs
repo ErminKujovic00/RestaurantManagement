@@ -83,7 +83,6 @@ namespace KimPOS
                 Category = category,
                 Icon = System.Drawing.Image.FromFile("icons/" + icon),
                 Tag = category
-
             };
             pnl.Controls.Add(w);
         }

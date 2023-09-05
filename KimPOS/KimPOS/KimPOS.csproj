@@ -253,6 +253,9 @@
     <Content Include="icons\beer.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="SlikeZaDemo\cevapi.jpg" />
+    <Content Include="SlikeZaDemo\salata.jpg" />
+    <Content Include="SlikeZaDemo\tacos.jpg" />
     <EmbeddedResource Include="icons\juice.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </EmbeddedResource>

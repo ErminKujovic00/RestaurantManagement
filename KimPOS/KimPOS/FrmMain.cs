@@ -305,6 +305,8 @@ namespace KimPOS
                         doc.Close();
 
                         MessageBox.Show("Receipt generated successfully.", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        lblTot.Text = "£0";
+                        grid.Rows.Clear();
                     }
                 }
             }
